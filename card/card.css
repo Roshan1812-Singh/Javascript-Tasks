@@ -1,0 +1,69 @@
+body {
+  background-image: linear-gradient(100deg, rgb(133, 181, 127), rgb(175, 188, 175), rgb(76, 76, 148));
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.team-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  justify-content: center;;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s;
+  margin-bottom: 20px;
+}
+
+.card:hover {
+  transform: scale(1.07);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card h3 {
+  margin-top: 15px;
+  font-size: 1.2em;
+}
+
+.card .role {
+  font-weight: bold;
+  color: #555;
+}
+
+.card .desc {
+  margin-top: 10px;
+  color: #666;
+  font-size: 0.95em;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 100%;
+    max-width: 350px;
+  }
+}
