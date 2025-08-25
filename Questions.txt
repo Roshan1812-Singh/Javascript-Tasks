@@ -1,0 +1,111 @@
+=> HTML:
+
+What is HTML?
+What is the difference between HTML and HTML5?
+Explain semantic elements in HTML with examples.
+What are attributes in HTML? Provide examples.
+Difference between block-level and inline elements.
+Difference between id and class attributes in HTML.
+Explain different types of selectors?
+Explain attributes and properties?
+What is the difference between an element and a tag?
+How do you create links and embed images in HTML?
+What is responsive web design in the context of HTML?
+What is the purpose of the <noscript> tag in HTML?
+How do you create a multi-line text input in an HTML form?
+What is the purpose of the rel attribute in a <link> tag?
+How can you make an HTML element editable in the browser?
+What is the purpose of the <datalist> tag in HTML?
+
+
+
+=> CSS: 
+
+Difference between inline, internal, and external CSS.
+Explain the CSS Box Model.
+What are pseudo-classes and pseudo-elements in CSS?
+Difference between relative, absolute, fixed, and sticky positioning.
+How do CSS Grid and Flexbox differ?
+What are CSS variables? How do we use them?
+Explain the concept of responsive design and media queries.
+What are CSS Selectors?
+What are the different CSS link states?
+What is the difference between display: none and visibility: hidden?
+Difference between em, rem, %, and px units in CSS.
+Explain the difference between relative, static, and inherit in CSS positioning?
+What is the difference between CSS transitions and animations?
+Explain CSS specificity and the order of precedence.
+How does z-index work in CSS? 
+What are CSS Combinators?
+What is a stacking context?
+What is CSS flexbox?
+What is @keframes used for?
+What is !important?
+What is specificity in CSS?
+
+
+=> JavaScript: 
+
+Difference between var, let, and const.
+What is hoisting in JavaScript?
+Explain the concept of closures.
+Difference between synchronous and asynchronous JavaScript.
+What is the event loop in JavaScript? 
+How does event loop in JavaScript work?
+Explain promises? 
+Explain async/await in JavaScript.
+Explain the concept of try-catch block.
+What is the difference between == and ===?
+What is prototypal inheritance in JavaScript?
+Explain the concept of this keyword in JavaScript.
+Difference between call, apply, and bind methods.
+How does debouncing and throttling work in JavaScript?
+What are JavaScript modules? How do we import or export them?
+Explain the concept of react-router and react-router-dom?
+Difference between slice() and splice()?
+What do you mean by Higher-Order-Components?
+Explain custom hooks?
+What is negative infinity?
+What is lexical scope in JavaScript?
+What are "truthy" and "falsy" values in JavaScript
+What is the difference between null and undefined in JavaScript?
+What is an event bubbling in JavaScript?
+
+
+
+=> React:
+
+What are the main features of React?
+Difference between functional and class components.
+What are props and state in React?
+Explain the concept of virtual DOM in React.
+Difference between controlled and uncontrolled components.
+What are React hooks?.
+What is context API in React? How is it different from Redux?
+Explain the concept of React Router for navigation.
+How do you optimize performance in a React application?
+Explain the difference between memo, useMemo, and useCallback.
+What is React StrictMode and why is it used?
+Explain the concept of prop drilling and lifting the state up?
+Why does the class components have lower preference than functional components?
+What are lifecycle methods available in react?
+Difference between filter and find 
+
+
+
+=> Redux:
+
+What is Redux? Why do we use it?
+Explain the three principles of Redux.
+Difference between Redux and Context API.
+What are actions and reducers in Redux?
+Explain the concept of Redux store.
+How do you connect Redux with a React app using react-redux?
+Explain middleware in Redux with an example.
+What is Redux Thunk, and why is it used?
+Difference between Redux Toolkit and traditional Redux.
+How do you handle async operations in Redux?
+Explain the concept of selectors in Redux.
+How does Redux DevTools help in debugging?
+
+
